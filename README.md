@@ -1,4 +1,5 @@
 # favorite-projects
+Record third-party projects here.
 
 ## JS/TS 
 
