@@ -5,7 +5,9 @@
 <dl>
     <dt>Database</dt>
     <br/>
-    <dd>[RxDB](https://github.com/pubkey/rxdb)</dd>
+    <dd>[RxDB](https://github.com/pubkey/rxdb) <br/>
+        RxDB (short for Reactive Database) is a NoSQL-database for JavaScript Applications like Websites, hybrid Apps, Electron-Apps, Progressive Web Apps and NodeJs.
+    </dd>
 </dl>
 
 <dl>
